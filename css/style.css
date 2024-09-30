@@ -1,0 +1,43 @@
+table{
+    width:400px;
+    height: 500px;
+    padding:15px;
+    background-color: #29292B;
+    border-radius: 15px;
+}
+
+
+
+.display{
+    border-radius: 20px;
+    background-color: #A2AF77;
+    height: 70px;
+}
+
+
+
+
+td{
+    color:white;
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: Consolas;
+    text-align: center;
+    border: 2px solid #29292B;
+    width:25%;
+}
+
+
+.buttons{
+    background-color: #58595B;
+}
+
+
+.equal_btn{
+    background-color: #F15A2A;
+}
+
+
+.first_row{
+    background-color: #000000;
+}
